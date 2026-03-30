@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables (Important if you add API keys later)
+.env
+
+# Build folders (If you ever use a frontend framework)
+dist/
+build/
