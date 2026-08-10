@@ -15,8 +15,11 @@ A web application built with **Node.js**, **Express.js**, and **EJS** that fetch
 - 🛡️ Error handling for API failures and network issues
 
 ---
-<img width="622" height="483" alt="image" src="https://github.com/user-attachments/assets/16b5a71c-8566-472b-91a9-4a83f4d642cc" />
-![Uploading image.png…]()
+
+<img width="570" height="332" alt="image" src="https://github.com/user-attachments/assets/46990a4b-ae84-4b68-9a8a-f4900dfabdc2" />
+
+<img width="622" height="400" alt="image" src="https://github.com/user-attachments/assets/5cc15473-eb55-4858-9e58-c351d14e8f3b" />
+
 
 
 ## 🛠️ Tech Stack
