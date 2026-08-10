@@ -15,6 +15,7 @@ A web application built with **Node.js**, **Express.js**, and **EJS** that fetch
 - 🛡️ Error handling for API failures and network issues
 
 ---
+![Uploading image.png…]()
 
 ## 🛠️ Tech Stack
 
